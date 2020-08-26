@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    height: 100vh;
+    background-image: url("../img/background.png");
+    background-size: 100%,cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    position: relative;
+
+}
